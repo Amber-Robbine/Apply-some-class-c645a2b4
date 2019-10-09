@@ -1,0 +1,57 @@
+table,
+td {
+    border: 0px solid #222;
+}
+
+thead,
+tfoot {
+    background-color: #999;
+    color: #000000;
+}
+
+td,
+th {
+    border: 0px solid rgb(190, 190, 190);
+    padding: 5px;
+}
+
+td {
+    text-align: center;
+}
+
+
+
+tr:nth-child(even) {
+    background-color: #aaa;
+}
+
+th[scope="row"] {
+    background-color: #EEEEEE;
+}
+
+
+
+.b {
+
+    background-color:#EE82EE;
+}
+
+.c {
+
+    background-color: #6495ED
+}
+
+.d {
+
+    background-color: #F0E68C
+}
+
+.green{
+    
+    color: #228B22
+}
+
+.orange-bg{
+
+    background-color: #F4A460
+}
